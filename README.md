@@ -1,5 +1,3 @@
-# projeto-sql-biblioteca
-
 # Projeto SQL — Biblioteca
 
 Projeto desenvolvido para praticar consultas e manipulação de dados utilizando **SQL Server**.
